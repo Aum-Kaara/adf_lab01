@@ -1,6 +1,11 @@
 # How to Load JSON into Azure SQL Table
 Azure Data Factory call API and insert data in Blob Storage
+## Create Resource group
 
+Create a resource group 
+![image](https://github.com/user-attachments/assets/ec5a7fe3-7faf-4fa5-b35e-eccd793d97cf)
+
+## Create Azure Data Factory
 ``
 CREATE TABLE [dbo].[book](
 [author] [nchar](50) NULL,
