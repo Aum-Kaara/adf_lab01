@@ -13,6 +13,14 @@ Create a resource group
 
 ![image](https://github.com/user-attachments/assets/71dc3a17-1a42-4d25-bf7c-26493139e0b5)
 
+## Create SQL Server and Database
+
+![image](https://github.com/user-attachments/assets/0183ca95-61a8-4437-83ba-eb007ec6eca2)
+
+### Change network settings to allow login from your IP Address 
+
+![image](https://github.com/user-attachments/assets/5189e299-0c01-4b93-aa09-abc8dbf10796)
+
 ``
 CREATE TABLE [dbo].[book](
 [author] [nchar](50) NULL,
