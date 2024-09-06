@@ -42,6 +42,16 @@ ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
 ) ON [PRIMARY]
 GO
 ``
+### Create New linked service for Azure storage Account
+
+![image](https://github.com/user-attachments/assets/a917a9f7-635f-4e0c-8421-0fe27d53c1c6)
+![image](https://github.com/user-attachments/assets/085d202a-1d63-4724-844d-6ca41671c423)
+
+### Create New Linked service for SQL Server Database
+
+![image](https://github.com/user-attachments/assets/5e63b2f6-b812-45a2-bbb6-9ab933e8240e)
+![image](https://github.com/user-attachments/assets/475bc1e1-b71a-453d-883d-e1d562272a7b)
+
 
 ``
 { "store": {
