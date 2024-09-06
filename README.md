@@ -65,6 +65,11 @@ GO
 
 ![image](https://github.com/user-attachments/assets/f09ce2ed-37d2-4c7f-9bc5-7d2bc328bc97)
 
+Mapping Settings 
+
+![image](https://github.com/user-attachments/assets/20051619-a636-4fb8-9a5b-945918f273fb)
+
+Use below json to upload into container 
 ``
 { "store": {
 "book": [
