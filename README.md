@@ -1,5 +1,7 @@
-# How to Load JSON into Azure SQL Table
-Azure Data Factory call API and insert data in Blob Storage
+# Azure Data Factory - Load JSON from Blob into SQLQ Server 
+
+This blog gives you an overview of how to load Blob JSON into SQL Database
+
 ## Create Resource group
 
 Create a resource group 
@@ -25,7 +27,7 @@ Create a resource group
 
 ![image](https://github.com/user-attachments/assets/c1feda42-43a9-4212-ab52-749ee7fd3e79)
 
-use below SQL script to create Table book 
+use the SQL script below to create a Table book 
 
 ``
 CREATE TABLE [dbo].[book](
