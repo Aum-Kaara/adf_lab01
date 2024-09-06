@@ -52,6 +52,18 @@ GO
 ![image](https://github.com/user-attachments/assets/5e63b2f6-b812-45a2-bbb6-9ab933e8240e)
 ![image](https://github.com/user-attachments/assets/475bc1e1-b71a-453d-883d-e1d562272a7b)
 
+### Create Dataset for inbound
+
+![image](https://github.com/user-attachments/assets/e099fbac-df6f-44d3-8b17-6c1ee6189fff)
+![image](https://github.com/user-attachments/assets/faaf8883-8ac0-4b12-8517-6f1d54554e6a)
+
+### Create Dataset for outbound SQL Table
+
+![image](https://github.com/user-attachments/assets/a1a22aef-36ed-4364-acad-777b07e0d04d)
+
+### Create Pipeline with copy data activity 
+
+![image](https://github.com/user-attachments/assets/f09ce2ed-37d2-4c7f-9bc5-7d2bc328bc97)
 
 ``
 { "store": {
