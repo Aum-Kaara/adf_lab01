@@ -21,6 +21,12 @@ Create a resource group
 
 ![image](https://github.com/user-attachments/assets/5189e299-0c01-4b93-aa09-abc8dbf10796)
 
+## Create Table using Azure portal 
+
+![image](https://github.com/user-attachments/assets/c1feda42-43a9-4212-ab52-749ee7fd3e79)
+
+use below SQL script to create Table book 
+
 ``
 CREATE TABLE [dbo].[book](
 [author] [nchar](50) NULL,
