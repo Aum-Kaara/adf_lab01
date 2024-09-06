@@ -6,6 +6,13 @@ Create a resource group
 ![image](https://github.com/user-attachments/assets/ec5a7fe3-7faf-4fa5-b35e-eccd793d97cf)
 
 ## Create Azure Data Factory
+
+![image](https://github.com/user-attachments/assets/76b0ba1a-7696-42b2-ae22-e2c2817f2faf)
+
+## Create Storage Account
+
+![image](https://github.com/user-attachments/assets/71dc3a17-1a42-4d25-bf7c-26493139e0b5)
+
 ``
 CREATE TABLE [dbo].[book](
 [author] [nchar](50) NULL,
